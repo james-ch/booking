@@ -31,3 +31,15 @@ Git stash
 Git stash pop 
 
 
+react 
+
+react-native
+    1. npm install -g create-react-native-app
+    2. create-react-native-app [name app]
+
+Expo
+    https://docs.expo.io/get-started/installation/
+    
+    expo sqlite
+    https://docs.expo.io/versions/latest/sdk/sqlite/
+
