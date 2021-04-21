@@ -44,3 +44,5 @@ Expo
     https://docs.expo.io/versions/latest/sdk/sqlite/
 
 ko test
+
+ko test push 2
