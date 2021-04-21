@@ -1,18 +1,6 @@
-# Go Dep
-vendor/
-
-# Autoenv
-.env
-
 # IDE - VSCode
 .vscode/*
 
 # System Files
 .DS_Store
 Thumbs.db
-
-# Fresh
-tmp/
-
-#image
-img/
