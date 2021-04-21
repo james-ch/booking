@@ -43,3 +43,4 @@ Expo
     expo sqlite
     https://docs.expo.io/versions/latest/sdk/sqlite/
 
+ko test
