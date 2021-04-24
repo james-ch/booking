@@ -54,3 +54,6 @@ windown
     2. eval $(ssh-agent -s)
     3. ssh-add ~/.ssh/id_rsa
     4. clip < ~/.ssh/id_rsa.pub
+
+
+test James
